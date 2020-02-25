@@ -1,0 +1,2 @@
+# abastractlast
+example abstract factory
